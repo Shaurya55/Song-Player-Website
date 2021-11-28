@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-size: 70px;
+    font-family:monospace;
+    letter-spacing: 10px;
+    background-color: #CD1818;
+    color: #FFE459;    
+}
+
+h1{
+    text-shadow: 3px 3px 8px blue;
+}
+
+.song{
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    -webkit-box-shadow: 0px 11px 21px #0022ff;
+    -moz-box-shadow: 0px 11px 21px #0022ff;
+    box-shadow: 0px 11px 21px #0022ff;
+    font-family: Courier New;
+    color: #000000;
+    font-size: 60px;
+    background: #ffea00;
+    padding: 18px 18px 10px 18px;
+    text-decoration: none;
+    cursor: pointer;
+}
